@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T01:32:25.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" version="14.4.3" etag="Kxbpm9V30FTftQILweND" type="github"><diagram id="ghrNCfEAvPkNwIxkTgEo">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-03T03:00:22.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="KCVTBsS4k8k0rfrl824s" version="14.4.3" type="github">
+  <diagram id="ghrNCfEAvPkNwIxkTgEo" name="Page-1">
+    <mxGraphModel dx="1278" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U2vtrnBCfbSAsMTs8LMC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="480" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="U2vtrnBCfbSAsMTs8LMC-2" value="Quản lý truy cập" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2vtrnBCfbSAsMTs8LMC-3" value="Quản lý thông tin cá nhân" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2vtrnBCfbSAsMTs8LMC-4" value="Quản lý đặc quyền" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2vtrnBCfbSAsMTs8LMC-5" value="Tạo Đội bóng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413.5" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2vtrnBCfbSAsMTs8LMC-6" value="Tìm kiếm trung tâm thể thao" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="210" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2vtrnBCfbSAsMTs8LMC-7" value="Quản lý khung giờ tập luyện" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="210" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2vtrnBCfbSAsMTs8LMC-8" value="Tạo báo cáo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2vtrnBCfbSAsMTs8LMC-9" value="Xuất ra File" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2vtrnBCfbSAsMTs8LMC-10" value="Quản lý yêu cầu của BHL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2vtrnBCfbSAsMTs8LMC-11" value="Xuất ra File" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2vtrnBCfbSAsMTs8LMC-12" value="Quản lý trận đấu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="210" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
